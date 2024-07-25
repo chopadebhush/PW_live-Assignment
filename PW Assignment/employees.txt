@@ -1,0 +1,4 @@
+
+Name = bhushan
+age = 25
+salary = 10000$

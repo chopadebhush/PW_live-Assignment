@@ -1,0 +1,2 @@
+Write a Python module named file_operations.py with functions for reading, writing, and appending data to a file
+When the file is opened in append mode in Python, the handle is positioned at the end of the file. The data being written will be inserted at the end, after the existing data.
